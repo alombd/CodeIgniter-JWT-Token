@@ -15,13 +15,13 @@ This Project download and folder name change to jwt
 ***********************************************
 Please check by GET method using postman
 
-http://localhost/jwt/index.php/JwtToken/LoginToken
+<http://localhost/jwt/index.php/JwtToken/LoginToken
 ***********************************************
 
 ***********************************************
 Please check by GET method using postman
 
-http://localhost/jwt/index.php/JwtToken/GetTokenData
+<http://localhost/jwt/index.php/JwtToken/GetTokenData
 ***********************************************
 
 
