@@ -1,4 +1,31 @@
 ###################
+This Project download and folder name change to jwt
+###################
+
+********************************************
+1. Downloading CodeIgniter Project. (download link)
+2. CodeIgniter project configuration .
+3. Then Create a Controller.
+4. And next create a file inside /application/libraries/CreatorJwt.php
+5. And load JWT library
+6. And Finaly implement JWT token requests
+7. Test JWT protected API resources
+********************************************
+
+***********************************************
+Please check by GET method using postman
+
+http://localhost/jwt/index.php/JwtToken/LoginToken
+***********************************************
+
+***********************************************
+Please check by GET method using postman
+
+http://localhost/jwt/index.php/JwtToken/GetTokenData
+***********************************************
+
+
+###################
 What is CodeIgniter
 ###################
 
